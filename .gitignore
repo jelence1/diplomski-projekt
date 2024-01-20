@@ -8,3 +8,7 @@ latex/*.lol
 latex/*.lot
 latex/*.out
 latex/*.gz
+code/aws-quickconnect/build
+code/aws-quickconnect/.vscode
+code/ssl/build
+code/ssl/build/.vscode
