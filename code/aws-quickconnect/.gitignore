@@ -1,0 +1,4 @@
+build/
+FMC_Utility/
+.vscode/
+uncrustify.cfg
