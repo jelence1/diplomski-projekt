@@ -1,0 +1,4 @@
+
+https://docs.aws.amazon.com/freertos/latest/userguide/freertos-getting-started-modular.html
+-->  https://freertos.org/quickconnect/index.html
+--> https://github.com/espressif/aws-quickconnect
